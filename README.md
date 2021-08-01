@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @labsware
 -  I’m interested in web development and design.
 -  I’m currently learning some cool things
--  I’m looking to collaborate on web performance, seo.
+-  I’m looking to collaborate on web performance, seo and web development in general.
 -  How to reach me hola@labsware.com
 
 <!---
